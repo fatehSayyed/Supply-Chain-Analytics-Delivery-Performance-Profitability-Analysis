@@ -182,6 +182,11 @@ Supply-Chain-Analytics-Delivery-Performance-Profitability-Analysis/Screenshot (3
 
 5. **Open the Power BI dashboard**
    - Open `modify.pbix` in **Power BI Desktop**
+![My Image](Screenshot(33).png)
+![My Image](Screenshot(34).png)
+![My Image](Screenshot(35).png)
+![My Image](Screenshot(36).png)
+![My Image](Screenshot(37).png)
 
    
 

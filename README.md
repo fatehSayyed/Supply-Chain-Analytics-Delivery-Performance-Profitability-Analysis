@@ -142,8 +142,7 @@ African regions consistently show the highest delay rates (60%+), while Western 
 - Profitability Analysis with loss-rate breakdown
 - Delivery Delay Analysis with root causes and recommendations
 - Regional Performance Comparison
-
-- Screenshot (33).png
+Supply-Chain-Analytics-Delivery-Performance-Profitability-Analysis/Screenshot (33).png
 
 ---
 

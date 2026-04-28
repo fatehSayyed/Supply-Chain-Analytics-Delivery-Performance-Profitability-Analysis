@@ -1,6 +1,5 @@
 # 📦 Supply Chain Analytics — Delivery Performance & Profitability Analysis
 
-![My Image](kpi_delivery.png)
 
 > **Prepared by:** Fateh Mohammed Sayyed 
 
@@ -143,6 +142,8 @@ African regions consistently show the highest delay rates (60%+), while Western 
 - Profitability Analysis with loss-rate breakdown
 - Delivery Delay Analysis with root causes and recommendations
 - Regional Performance Comparison
+
+- Screenshot (33).png
 
 ---
 

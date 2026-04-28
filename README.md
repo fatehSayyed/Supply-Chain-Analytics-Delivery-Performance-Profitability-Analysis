@@ -16,13 +16,13 @@ The analysis combines Python-based EDA with an interactive Power BI dashboard an
 
 ## 📊 Delivery KPIs
 
-![Delivery KPI Cards](assets/kpi_delivery.png)
+![My Image](kpi_delivery.png)
 
 ---
 
 ## 💰 Financial KPIs
 
-![Financial KPI Cards](assets/kpi_financial.png)
+![My Image](kpi_financial.png)
 
 ---
 
@@ -65,7 +65,7 @@ supply-chain-analysis/
 
 Over a third of orders (36.1%) generate a net loss — driven by excessive discounts, high shipping costs for remote regions, and underperforming product categories.
 
-![Profitability Distribution](assets/profitability_pie.png)
+![My Image](profitability_pie.png)
 
 ### Problem Identified
 - **36.1% loss rate** indicates systemic margin erosion
@@ -83,7 +83,7 @@ Over a third of orders (36.1%) generate a net loss — driven by excessive disco
 
 With 54.7% of orders arriving late, the supply chain exhibits a systemic scheduling failure. The most common delay band falls at **1–3 days**, with some orders delayed by 7+ days.
 
-![Order Distribution by Delay Days](assets/delay_distribution.png)
+![My Image](profit_by_delay.png)
 
 ### Problem Identified
 - Inaccurate scheduled shipment day estimates — the delivery prediction model is poorly calibrated
@@ -100,8 +100,8 @@ With 54.7% of orders arriving late, the supply chain exhibits a systemic schedul
 ## 💸 Profit Impact of Delays
 
 Orders delayed by even **1 day generate net losses** — showing a sharp profitability cliff at the zero-delay threshold. The total profit at risk from delayed orders alone is **$2.13 million**.
+![My Image](delay_distribution.png)
 
-![Total Profit by Delay Days](assets/profit_by_delay.png)
 
 ---
 
@@ -109,8 +109,7 @@ Orders delayed by even **1 day generate net losses** — showing a sharp profita
 
 African regions consistently show the highest delay rates (60%+), while Western Europe performs best at 41.2%. This highlights a need for region-specific logistics strategies.
 
-![Delay Percentage by Region](assets/delay_by_region.png)
-
+![My Image](delay_by_region.png)
 | Region | Delay Rate | Status |
 |---|---|---|
 | Northern Africa | 66.1% | 🔴 Critical |
@@ -184,6 +183,8 @@ African regions consistently show the highest delay rates (60%+), while Western 
 5. **Open the Power BI dashboard**
    - Open `modify.pbix` in **Power BI Desktop**
 
+   
+
 ---
 
 ## 📂 Dataset
@@ -199,7 +200,6 @@ African regions consistently show the highest delay rates (60%+), while Western 
 ## 👤 Author
 
 **Fateh Mohammed Sayyed**
-- 📅 April 2026
 - 📊 Supply Chain Data Analyst
 
 ---
